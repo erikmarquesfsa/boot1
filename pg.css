@@ -1,6 +1,7 @@
 .navbg {
     background: linear-gradient(31deg, rgba(255,209,217,1) 0%, rgba(207,48,110,1) 88%);
     box-shadow: 0px 3px 0px 0px rgba(0,0,0,0.75);
+    margin-bottom: 20px;
 }
 
 .card img{
@@ -10,3 +11,11 @@
 .card {
     height: 500px;
 }
+
+#img_banner{
+    height: 400px;
+}
+
+
+
+
