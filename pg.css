@@ -16,6 +16,17 @@
     height: 400px;
 }
 
+.go-top{
+    position: fixed;
+    bottom: 4.5rem;
+    right: 3rem;
+    display: none;
+    border: 30px solid transparent;
+    border-bottom-color: black ;
+    z-index:10;
+    cursor:pointer;
+}
+
 
 
 
